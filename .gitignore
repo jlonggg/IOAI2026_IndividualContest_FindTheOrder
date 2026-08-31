@@ -1,0 +1,14 @@
+# Audio (4.2 GB) — download separately, see README
+dataset/**/*.wav
+
+# Pretrained weights (3.5 GB) — download from HuggingFace, see README
+models/
+
+# Internal research log
+CONTEXT.md
+
+submission.zip
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
